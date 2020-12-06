@@ -1,8 +1,11 @@
-# ESP32_Codec2
-Codec2 library for ESP32 (Arduino)
+# Codec2 runs at ESP32 to connect M17 reflectors
 
 This is an implementation of Codec2 for the ESP32 (Arduino). 
-The ESP32_codec2.ino file is an example to transmit and receive voice using a LoRa radio. It allow to make a walking-talking with a long range low power.
+This version is just weekend project, you can make a wifi walkie talkie just by using esp32 dev-board, microphone amplifier and speaker amplifier modules.
+
+At the moment, it is just a lots of spagetthi code. It works and no one knows why and how. I may update, clean, apply style etc, in the future.
+
+You <u>need to have an AMATEUR RADIO LICENCE</u> in order to use.
 
 # Install
 This library do not have an installer, just copy the codec2 folder to your Arduino library folder.
